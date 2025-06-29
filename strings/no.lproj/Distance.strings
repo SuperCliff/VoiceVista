@@ -23,7 +23,7 @@
 "distance.format.foot" = "%@ fot";
 
 /* Preserve feet unit - Do not convert but can translate. Distance string, plural. %@ is a plural number, "15 feet" {NumberedPlaceholder="%@"} */
-"distance.format.feet" = "%@ fod";
+"distance.format.feet" = "%@ fot";
 
 /* Preserve mi unit - Do not convert but can translate abbreviation of mile. Distance string. %@ is a number, "15 mi" {NumberedPlaceholder="%@"} */
 "distance.format.mi" = "%@ mi";
