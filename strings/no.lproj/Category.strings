@@ -1038,24 +1038,24 @@
 
 /**/
 "osm.scrapyard" = "skraphåndteringsplass";
-###
-/**/
-"osm.notice_board" = "Opslagstavle";
 
 /**/
-"osm.mobilemoney" = "Mobilpenge";
+"osm.notice_board" = "Oppslagstavle";
+
+/**/
+"osm.mobilemoney" = "mobilbetaling";
 
 /**/
 "osm.leisure" = "Fritid";
 
 /**/
-"osm.kick_scooter_parking" = "Kick Scooter Parkering";
+"osm.kick_scooter_parking" = "sparkesykkelparkering";
 
 /**/
-"osm.company" = "Selskab";
+"osm.company" = "Selskap";
 
 /* A quayside table for fishers to gut and clean their catch */
-"osm.fish_cleaning" = "Rensning af fisk";
+"osm.fish_cleaning" = "Fiskerensestasjon";
 
 /* Formerly used tag to map a representation of a country in another country. */
 "osm.embassy" = "Ambassade";
@@ -1064,58 +1064,58 @@
 "osm.temple" = "Tempel";
 
 /**/
-"osm.bandstand" = "Bandstand";
+"osm.bandstand" = "Paviljong";
 
 /**/
-"osm.hammock" = "Hængekøje";
+"osm.hammock" = "Hengekøye";
 
 /**/
-"osm.guest_house" = "Gæstehus";
+"osm.guest_house" = "Gjestgiveri";
 
 /**/
 "osm.awning" = "Markise";
 
 /**/
-"osm.tutoring" = "Vejledning";
+"osm.tutoring" = "Veiledning";
 
 /**/
-"osm.truck_stop" = "Truck Stop";
+"osm.truck_stop" = "Lastebilstopp";
 
 /* A public foot shower device. */
-"osm.foot_shower" = "Fodbruser";
+"osm.foot_shower" = "Fotdusj";
 
 /**/
-"osm.water_tap" = "Vandhane";
+"osm.water_tap" = "Vannkran";
 
 /**/
-"osm.elevator" = "Elevator";
+"osm.elevator" = "Heis";
 
 /* Place where one can temporarily store one's luggage so as to not have to carry it. */
-"osm.left_luggage" = "Efterladt bagage";
+"osm.left_luggage" = "Bagasjeoppbevaring";
 
 /**/
-"osm.ground_sign" = "Jordskilt";
+"osm.ground_sign" = "Bakkeskilt";
 
 /**/
-"osm.adult_gaming_centre" = "Spillecenter for voksne";
+"osm.adult_gaming_centre" = "Spillesenter for voksne";
 
 /**/
-"osm.scout_hall" = "Spejdersal";
+"osm.scout_hall" = "Speidersal";
 
 /**/
 "osm.lifeguard" = "Livredder";
 
 /**/
-"osm.chapel" = "Kapel";
+"osm.chapel" = "Kapell";
 
 /* A place where lost articles can be retrieved if found by someone. */
-"osm.lost_property_office" = "Hittegodskontoret";
+"osm.lost_property_office" = "Hittegods";
 
 /* A place that rents motor scooters. */
-"osm.scooter_rental" = "Leje af scooter";
+"osm.scooter_rental" = "Scooterutleie";
 
 /**/
-"osm.loading_ramp" = "Indlæsningsrampe";
+"osm.loading_ramp" = "Lastrerampe";
 
 /**/
 "osm.aquaculture" = "Akvakultur";
@@ -1130,34 +1130,34 @@
 "osm.vivarium" = "Vivarium";
 
 /**/
-"osm.ashtray" = "Askebæger";
+"osm.ashtray" = "Askebeger";
 
 /**/
-"osm.charity" = "Velgørenhed";
+"osm.charity" = "Veldedighet";
 
 /**/
-"osm.tent_ground" = "Teltplads";
+"osm.tent_ground" = "Teltplass";
 
 /**/
-"osm.sport_school" = "Idrætsskole";
+"osm.sport_school" = "Idrettsskole";
 
 /**/
-"osm.greengrocer" = "Grønthandler";
+"osm.greengrocer" = "Grønnsakshandler";
 
 /**/
-"osm.billboard" = "Billboard";
+"osm.billboard" = "Reklametavle";
 
 /**/
 "osm.industry" = "Industri";
 
 /**/
-"osm.waste" = "Spild";
+"osm.waste" = "Avfall";
 
 /* Deprecated, use club=sailing instead. */
-"osm.yacht_club" = "Yachtklub";
+"osm.yacht_club" = "Yachtklubb";
 
 /**/
-"osm.mounting_block" = "Monteringsblok";
+"osm.mounting_block" = "Stigblokk";
 
 /**/
 "osm.sculpture" = "Skulptur";
@@ -1166,67 +1166,67 @@
 "osm.chiropractor" = "Kiropraktor";
 
 /**/
-"osm.wildlife_feeding" = "Fodring af vilde dyr";
+"osm.wildlife_feeding" = "Fôring av ville dyr";
 
 /**/
-"osm.public_prive" = "Public Prive";
+"osm.public_prive" = "Privat arrangement";
 
 /**/
 "osm.fortune_teller" = "Spåkone";
 
 /**/
-"osm.administration" = "Administration";
+"osm.administration" = "Administrasjon";
 
 /**/
-"osm.residential" = "beboelse";
+"osm.residential" = "Bolig";
 
 /**/
-"osm.cold_storage" = "Kølig opbevaring";
+"osm.cold_storage" = "Kjølelager";
 
 /**/
-"osm.information" = "Information";
+"osm.information" = "Informasjon";
 
 /**/
-"osm.weigh_station" = "Vejestation";
+"osm.weigh_station" = "Veiestasjon";
 
 /* A supplementary school with a commercial-basis. */
-"osm.tuition" = "Undervisning";
+"osm.tuition" = "Privatundervisning";
 
 /* A bicycle library is a facility for lending bicycles and cycling accessories to riders for trial or use. */
-"osm.bicycle_library" = "Cykelbibliotek";
+"osm.bicycle_library" = "Sykkelbibliotek";
 
 /**/
-"osm.education_centre" = "Uddannelsescenter";
+"osm.education_centre" = "Utdanningssenter";
 
 /**/
-"osm.social_center" = "Social Center";
+"osm.social_center" = "Sosialsenter";
 
 /**/
-"osm.health_facility" = "Sundhedsfacilitet";
+"osm.health_facility" = "Helsefasilitet";
 
 /* A large building used to hold conventions, conferences and similar events */
-"osm.convention_centre" = "Kongrescenter";
+"osm.convention_centre" = "Kongressenter";
 
 /**/
-"osm.microfinance" = "Mikrofinansiering";
+"osm.microfinance" = "Mikrofinans";
 
 /**/
-"osm.community_information_kiosk" = "Community Information Kiosk";
+"osm.community_information_kiosk" = "Informasjonskiosk for lokalsamfunn";
 
 /**/
 "osm.utc" = "Utc";
 
 /* Place where people can learn and practice meditation. */
-"osm.meditation_centre" = "Meditationscenter";
+"osm.meditation_centre" = "Meditasjonssenter";
 
 /**/
 "osm.telescope" = "Teleskop";
 
 /**/
-"osm.bleachers" = "Bleger";
+"osm.bleachers" = "Tribune";
 
 /**/
-"osm.barefootpath" = "Barfodet sti";
+"osm.barefootpath" = "Barfotsti";
 
 /**/
 "osm.home" = "Hjem";
@@ -1238,112 +1238,112 @@
 "osm.motel" = "Motel";
 
 /**/
-"osm.meeting_room" = "Mødelokale";
+"osm.meeting_room" = "Møterom";
 
 /**/
-"osm.paved" = "Brolagt";
+"osm.paved" = "Asfaltert";
 
 /**/
-"osm.escooter_rental" = "Udlejning af escooter";
+"osm.escooter_rental" = "Elscooterutleie";
 
 /**/
 "osm.farm" = "Gård";
 
 /**/
-"osm.publisher" = "Forlægger";
+"osm.publisher" = "Forlegger";
 
 /**/
-"osm.walkingbus_stop" = "Walkingbus Stop";
+"osm.walkingbus_stop" = "Gåbuss-stopp";
 
 /**/
 "osm.microfinance_bank" = "Mikrofinansbank";
 
 /**/
-"osm.garage" = "Garage";
+"osm.garage" = "Garasje";
 
 /**/
 "osm.faculty" = "Fakultet";
 
 /**/
-"osm.beauty" = "Skønhed";
+"osm.beauty" = "Skjønnhet";
 
 /**/
-"osm.recreation_ground" = "Fritidsplads";
+"osm.recreation_ground" = "Fritidsområde";
 
 /**/
-"osm.grass_strip" = "Græsstribe";
+"osm.grass_strip" = "Gressstripe";
 
 /**/
-"osm.credit_institution" = "Kreditinstitut";
+"osm.credit_institution" = "Kredittinstitusjon";
 
 /* A station doing radar surveillance of coastal areas and waterways. */
-"osm.coast_radar_station" = "Coast Radar Station";
+"osm.coast_radar_station" = "Kystradarstasjon";
 
 /**/
 "osm.gallery" = "Galleri";
 
 /**/
-"osm.dog_training" = "Hundetræning";
+"osm.dog_training" = "Hundetrening";
 
 /**/
 "osm.karaoke" = "Karaoke";
 
 /**/
-"osm.podiatrist" = "Fodterapeut";
+"osm.podiatrist" = "Fotterapeut";
 
 /**/
-"osm.preschool" = "Førskole";
+"osm.preschool" = "Barnehage";
 
 /**/
-"osm.avalanche_transceiver" = "Lavine transceiver";
+"osm.avalanche_transceiver" = "Skredsøker";
 
 /**/
 "osm.hostel" = "Vandrerhjem";
 
 /**/
-"osm.rental" = "Udlejning";
+"osm.rental" = "Utleie";
 
 /**/
-"osm.entrance" = "Indgang";
+"osm.entrance" = "Inngang";
 
 /**/
-"osm.telephone_exchange" = "Telefoncentral";
+"osm.telephone_exchange" = "Telefonsentral";
 
 /**/
-"osm.planter" = "Plantemaskine";
+"osm.planter" = "Plantekasse";
 
 /**/
-"osm.chairs" = "Stole";
+"osm.chairs" = "Stoler";
 
 /**/
-"osm.community_health_center" = "Fælles Sundhedscenter";
+"osm.community_health_center" = "Fellesskapshelse-senter";
 
 /**/
-"osm.cat_place" = "Katteplads";
+"osm.cat_place" = "Katteplass";
 
 /**/
-"osm.fish_hatchery" = "Fiskeklækkeri";
+"osm.fish_hatchery" = "Fiskeoppdrett";
 
 /* A place where motorcycle taxis wait for passengers. */
-"osm.motorcycle_taxi" = "Motorcykel taxa";
+"osm.motorcycle_taxi" = "Motorsykkeltaxi";
 
 /**/
-"osm.banquet_hall" = "Selskabssal";
+"osm.banquet_hall" = "Bankettsal";
 
 /**/
-"osm.scout_camp" = "Spejderlejr";
+"osm.scout_camp" = "Speiderleir";
 
 /* A place where people can go for first aid courses. */
-"osm.first_aid_school" = "Førstehjælpsskolen";
+"osm.first_aid_school" = "Førstehjelpsskole";
 
 /**/
-"osm.manhole" = "Mandehul";
+"osm.manhole" = "Kumlokk";
 
 /* A laundry dryer. */
-"osm.dryer" = "Tørretumbler";
+"osm.dryer" = "Tørketrommel";
 
 /**/
-"osm.ticket_booth" = "Billetstand";
+"osm.ticket_booth" = "Billettbod";
 
 /**/
 "osm.art_gallery" = "Kunstgalleri";
@@ -1352,25 +1352,25 @@
 "osm.schoolyard" = "Skolegård";
 
 /**/
-"osm.audiologist" = "Audiolog";
+"osm.audiologist" = "Audiograf";
 
 /**/
-"osm.bakery" = "Bageri";
+"osm.bakery" = "Bakeri";
 
 /* Ramp for removing snow from trucks. */
-"osm.snow_removal_station" = "Snerydningsstation";
+"osm.snow_removal_station" = "Snøryddestasjon";
 
 /* A stool which remains located in the same place. */
-"osm.stool" = "Taburet";
+"osm.stool" = "Krakke";
 
 /**/
 "osm.brewery" = "Bryggeri";
 
 /**/
-"osm.cram_school" = "Cram Skole";
+"osm.cram_school" = "Privatskole";
 
 /**/
-"osm.milk_collection" = "Mælkesamling";
+"osm.milk_collection" = "Melkeinnsamling";
 
 /**/
 "osm.academy" = "Akademi";
@@ -1379,10 +1379,10 @@
 "osm.drinks" = "Drikkevarer";
 
 /**/
-"osm.cafeteria" = "Cafeteria";
+"osm.cafeteria" = "Kafeteria";
 
 /**/
-"osm.store" = "butik";
+"osm.store" = "Butikk";
 
 /**/
 "osm.teahouse" = "Tehus";
@@ -1391,187 +1391,187 @@
 "osm.stock_exchange" = "Børs";
 
 /**/
-"osm.sun_shelter" = "Sun Shelter";
+"osm.sun_shelter" = "Solskjerm";
 
 /**/
-"osm.manhole_drain" = "Mandehulsafløb";
+"osm.manhole_drain" = "Kumavløp";
 
 /**/
 "osm.disused_pub" = "Nedlagt pub";
 
 /**/
-"osm.changing_room" = "Omklædningsrum";
+"osm.changing_room" = "Garderobe";
 
 /**/
-"osm.resort" = "Udvej";
+"osm.resort" = "Resort";
 
 /**/
 "osm.depot" = "Depot";
 
 /**/
-"osm.bin" = "Beholder";
+"osm.bin" = "Søppelkasse";
 
 /**/
-"osm.swings" = "Gynger";
+"osm.swings" = "Husker";
 
 /**/
-"osm.communal_cooking_area" = "Fælles kogeplads";
+"osm.communal_cooking_area" = "Felleskjøkken";
 
 /**/
-"osm.snack_cart" = "Snackvogn";
+"osm.snack_cart" = "Snackbarvogn";
 
 /**/
-"osm.book_return" = "Bog retur";
+"osm.book_return" = "Bokinnlevering";
 
 /**/
-"osm.chemist" = "Kemiker";
+"osm.chemist" = "Apotek";
 
 /**/
 "osm.horse_parking" = "Hesteparkering";
 
 /**/
-"osm.astronomical_observatory" = "Astronomisk Observatorium";
+"osm.astronomical_observatory" = "Astronomisk observatorium";
 
 /**/
-"osm.funeral_directors" = "Bedemænd";
+"osm.funeral_directors" = "Begravelsesbyrå";
 
 /**/
-"osm.jeepney_station" = "Jeepney Station";
+"osm.jeepney_station" = "Jeepney-stasjon";
 
 /**/
-"osm.student_accomodation" = "Studenterbolig";
+"osm.student_accomodation" = "Studentbolig";
 
 /**/
 "osm.bridge" = "Bro";
 
 /**/
-"osm.health_center" = "Sundhedscenter";
+"osm.health_center" = "Helsestasjon";
 
 /**/
-"osm.residential_home" = "Boligbolig";
+"osm.residential_home" = "Omsorgsbolig";
 
 /* A facility larger than a amenity=give_box where people drop off and pick up various types of items in the sense of free sharing and reuse. Consists of one or several, dedicated room(s). */
-"osm.freeshop" = "Freeshop";
+"osm.freeshop" = "Gratisbutikk";
 
 /**/
-"osm.mall" = "Indkøbscenter";
+"osm.mall" = "Kjøpesenter";
 
 /**/
-"osm.dog_waste_basket" = "Hunde affaldskurv";
+"osm.dog_waste_basket" = "Hundeposeboks";
 
 /**/
-"osm.orphanage" = "Børnehjem";
+"osm.orphanage" = "Barnehjem";
 
 /**/
-"osm.scuba_diving" = "Scuba dykning";
+"osm.scuba_diving" = "Dykking";
 
 /**/
-"osm.stable" = "Stabil";
+"osm.stable" = "Stall";
 
 /**/
-"osm.cabins" = "kahytter";
+"osm.cabins" = "Hytter";
 
 /**/
-"osm.post_locker" = "Post skab";
+"osm.post_locker" = "Pakkeboks";
 
 /**/
 "osm.shed" = "Skur";
 
 /**/
-"osm.park" = "Parkere";
+"osm.park" = "Park";
 
 /**/
-"osm.different" = "Forskellige";
+"osm.different" = "Forskjellig";
 
 /* A fridge appliance, e.g. at a camp site or elsewhere. */
-"osm.fridge" = "Køleskab";
+"osm.fridge" = "Kjøleskap";
 
 /**/
-"osm.wifihotspot" = "Wifihotspot";
+"osm.wifihotspot" = "Wi-Fi-hotspot";
 
 /**/
-"osm.solar_water_heater" = "Solar vandvarmer";
+"osm.solar_water_heater" = "Solvarmebereder";
 
 /**/
-"osm.tailor" = "Skrædder";
+"osm.tailor" = "Skredder";
 
 /**/
-"osm.swimming_pool" = "Svømmepøl";
+"osm.swimming_pool" = "Svømmebasseng";
 
 /**/
-"osm.courtyard" = "Gårdsplads";
+"osm.courtyard" = "Gårdsrom";
 
 /**/
-"osm.reuse" = "Genbruge";
+"osm.reuse" = "Gjenbruk";
 
 /**/
-"osm.firewood" = "Brænde";
+"osm.firewood" = "Ved";
 
 /**/
 "osm.lamp" = "Lampe";
 
 /**/
-"osm.nursing_room" = "Plejeværelse";
+"osm.nursing_room" = "Ammestue";
 
 /**/
-"osm.beacon" = "ledestjerne";
+"osm.beacon" = "Fyr";
 
 /**/
 "osm.cro" = "Cro";
 
 /**/
-"osm.parking_row" = "Parkeringsrække";
+"osm.parking_row" = "Parkeringsrekke";
 
 /**/
-"osm.confectionery" = "Konfekture";
+"osm.confectionery" = "Godteri";
 
 /**/
 "osm.lodge" = "Lodge";
 
 /**/
-"osm.event_venue" = "Eventsted";
+"osm.event_venue" = "Arrangementslokale";
 
 /**/
-"osm.habitation" = "Beboelse";
+"osm.habitation" = "Bolig";
 
 /**/
-"osm.lsd" = "Lsd";
+"osm.lsd" = "LSD";
 
 /**/
-"osm.agriculture" = "Landbrug";
+"osm.agriculture" = "Landbruk";
 
 /**/
-"osm.washingline" = "Tørresnor";
+"osm.washingline" = "Klessnor";
 
 /**/
-"osm.spring_board" = "Springbræt";
+"osm.spring_board" = "Stupebrett";
 
 /**/
-"osm.courier" = "kurer";
+"osm.courier" = "Buddservice";
 
 /**/
-"osm.bus_depot" = "Busdepot";
+"osm.bus_depot" = "Bussterminal";
 
 /**/
-"osm.wayside_shrine" = "Wayside Shrine";
+"osm.wayside_shrine" = "Veihelgenskap";
 
 /* A parking space designed for strollers and prams. */
-"osm.stroller_parking" = "Barnevogn Parkering";
+"osm.stroller_parking" = "Barnevognparkering";
 
 /**/
-"osm.clothes" = "Tøj";
+"osm.clothes" = "Klær";
 
 /**/
 "osm.po_box" = "Postboks";
 
 /**/
-"osm.pitch" = "Sportsplads";
+"osm.pitch" = "Bane";
 
 /**/
-"osm.security_post" = "Sikkerhedspost";
+"osm.security_post" = "Vaktpost";
 
 /**/
-"osm.job_centre" = "Jobcenter";
+"osm.job_centre" = "Jobbsenter";
 
 /**/
 "osm.alcohol" = "Alkohol";
@@ -1580,103 +1580,102 @@
 "osm.catering" = "Catering";
 
 /**/
-"osm.scale" = "vægt";
+"osm.scale" = "Vekt";
 
 /**/
-"osm.salon" = "Salon";
+"osm.salon" = "Salong";
 
 /**/
-"osm.salt_lick" = "Salt Lick";
+"osm.salt_lick" = "Saltstein";
 
 /**/
-"osm.bulletin_board" = "Opslagstavle";
+"osm.bulletin_board" = "Oppslagstavle";
 
 /**/
-"osm.bus" = "Bus";
+"osm.bus" = "Buss";
 
 /**/
 "osm.dog_wash" = "Hundevask";
 
 /* A place to check out or borrow tools and equipment */
-"osm.tool_library" = "Værktøjsbibliotek";
+"osm.tool_library" = "Verktøybibliotek";
 
 /**/
-"osm.lecture_hall" = "Foredragssal";
+"osm.lecture_hall" = "Auditorium";
 
 /**/
-"osm.auction_house" = "Auktions hus";
+"osm.auction_house" = "Auksjonshus";
 
 /* Doctor Fish */
-"osm.fish_spa" = "Fiske Spa";
+"osm.fish_spa" = "Fiskespa";
 
 /**/
-"osm.science_park" = "Science Park";
+"osm.science_park" = "Vitenskappark";
 
 /**/
-"osm.employment_agency" = "Arbejdsformidling";
+"osm.employment_agency" = "Bemanningsbyrå";
 
 /**/
-"osm.former_pub" = "Tidligere Pub";
+"osm.former_pub" = "Tidligere pub";
 
 /**/
-"osm.conference_center" = "Konferencecenter";
+"osm.conference_center" = "Konferansesenter";
 
 /**/
-"osm.food_bank" = "Mad Bank";
+"osm.food_bank" = "Matsentral";
 
 /**/
-"osm.jobcentre" = "Jobcenter";
+"osm.jobcentre" = "Jobbsenter";
 
 /**/
-"osm.grass" = "Græs";
+"osm.grass" = "Gress";
 
 /**/
-"osm.hadware" = "Hadware";
+"osm.hadware" = "Jernvare";
 
 /**/
-"osm.smoking" = "Rygning";
+"osm.smoking" = "Røyking";
 
 /**/
 "osm.coffee" = "Kaffe";
 
 /**/
-"osm.telecommunication" = "Telekommunikation";
+"osm.telecommunication" = "Telekommunikasjon";
 
 /**/
-"osm.trailer_rental" = "Trailerudlejning";
+"osm.trailer_rental" = "Tilhengertutleie";
 
 /**/
 "osm.none" = "Ingen";
 
 /**/
-"osm.kennels" = "Kenneler";
+"osm.kennels" = "Kennel";
 
 /**/
-"osm.trollay_bay" = "Trollay Bugt";
+"osm.trollay_bay" = "Trallebukt";
 
 /**/
-"osm.playground" = "Legeplads";
+"osm.playground" = "Lekeplass";
 
 /**/
-"osm.pisciculture" = "Fiskekultur";
+"osm.pisciculture" = "Fiskeoppdrett";
+/**/
+"osm.water_tank" = "Vanntank";
 
 /**/
-"osm.water_tank" = "Vandtank";
+"osm.dog_waste_station" = "Hundeavfallsstasjon";
 
 /**/
-"osm.dog_waste_station" = "Hundeaffaldsstation";
+"osm.leaning_bench" = "Skråbenk";
 
 /**/
-"osm.leaning_bench" = "skæve bænk";
+"osm.sheltered_housing" = "Omsorgsbolig";
 
 /**/
-"osm.sheltered_housing" = "Beskyttet bolig";
+"osm.electronics" = "Elektronikk";
 
 /**/
-"osm.electronics" = "Elektronik";
-
-/**/
-"osm.presbytery" = "Præstegård";
+"osm.presbytery" = "Prestegård";
 
 /**/
 "osm.animal_keeping" = "Dyrehold";
@@ -1685,16 +1684,16 @@
 "osm.amphitheater" = "Amfiteater";
 
 /**/
-"osm.eau_brute" = "Eau Brute";
+"osm.eau_brute" = "Råvann";
 
 /**/
-"osm.sorority" = "Sorority";
+"osm.sorority" = "Søsterforening";
 
 /**/
 "osm.insurance" = "Forsikring";
 
 /**/
-"osm.medical_centre" = "Medicinsk Center";
+"osm.medical_centre" = "Helsesenter";
 
 /**/
 "osm.thermometer" = "Termometer";
@@ -1703,178 +1702,178 @@
 "osm.microwave" = "Mikrobølgeovn";
 
 /**/
-"osm.money_lender" = "Pengeudlåner";
+"osm.money_lender" = "Pengeutlåner";
 
 /**/
-"osm.litter_bin" = "Skraldespand";
+"osm.litter_bin" = "Søppelkasse";
 
 /**/
-"osm.swinging_table" = "Svingende bord";
+"osm.swinging_table" = "Svingbord";
 
 /**/
-"osm.civic" = "Civic";
+"osm.civic" = "Kommunal";
 
 /**/
-"osm.cart_return" = "Returvogn";
+"osm.cart_return" = "Vogninnlevering";
 
 /**/
-"osm.camera_obscura" = "Kamera Obscura";
+"osm.camera_obscura" = "Camera Obscura";
 
 /**/
-"osm.swimming_pool_deck" = "Swimming Pool Deck";
+"osm.swimming_pool_deck" = "Badebassengdekke";
 
 /**/
-"osm.parking_disposal" = "Parkering bortskaffelse";
+"osm.parking_disposal" = "Avfall fra parkering";
 
 /**/
-"osm.reception" = "Reception";
+"osm.reception" = "Resepsjon";
 
 /**/
-"osm.shelter_emergency" = "krisecenter";
+"osm.shelter_emergency" = "Nødhusly";
 
 /**/
-"osm.departures_board" = "Afgangstavlen";
+"osm.departures_board" = "Avgangstavle";
 
 /**/
-"osm.wlan" = "Wlan";
+"osm.wlan" = "WLAN";
 
 /**/
 "osm.pond" = "Dam";
 
 /**/
-"osm.advice_service" = "Rådgivningsservice";
+"osm.advice_service" = "Rådgivning";
 
 /**/
-"osm.public_hall" = "Offentlige Sal";
+"osm.public_hall" = "Festsal";
 
 /**/
-"osm.pawnbroker" = "Pantelåner";
+"osm.pawnbroker" = "Pantebutikk";
 
 /**/
-"osm.bus_parking" = "Bus parkering";
+"osm.bus_parking" = "Bussparkering";
 
 /**/
 "osm.cargo" = "Last";
 
 /**/
-"osm.pet_grooming" = "Kæledyrspleje";
+"osm.pet_grooming" = "Kjæledyrpleie";
 
 /**/
-"osm.truck_rental" = "Lastbiludlejning";
+"osm.truck_rental" = "Lastebilutleie";
 
 /**/
 "osm.amphitheatre" = "Amfiteater";
 
 /**/
-"osm.hitchhiking_bench" = "Blaffebænk";
+"osm.hitchhiking_bench" = "Haikebenk";
 
 /**/
 "osm.seminary" = "Seminar";
 
 /**/
-"osm.slaughterhouse" = "Slagteri";
+"osm.slaughterhouse" = "Slakteri";
 
 /**/
-"osm.accommodation" = "Indkvartering";
+"osm.accommodation" = "Overnatting";
 
 /**/
-"osm.association" = "Foreningen";
+"osm.association" = "Forening";
 
 /**/
-"osm.dental" = "Dental";
+"osm.dental" = "Tannhelse";
 
 /**/
 "osm.bathhouse" = "Badehus";
 
 /**/
-"osm.hardware" = "Hardware";
+"osm.hardware" = "Jernvare";
 
 /**/
-"osm.cattery" = "Katteri";
+"osm.cattery" = "Kattepensjonat";
 
 /**/
-"osm.station" = "Station";
+"osm.station" = "Stasjon";
 
 /**/
 "osm.winery" = "Vingård";
 
 /**/
-"osm.apartment" = "Lejlighed";
+"osm.apartment" = "Leilighet";
 
 /**/
 "osm.physiotherapist" = "Fysioterapeut";
 
 /**/
-"osm.garagem" = "Garagem";
+"osm.garagem" = "Garasje";
 
 /**/
-"osm.carpet_hanger" = "Tæppeophæng";
+"osm.carpet_hanger" = "Teppehenger";
 
 /**/
-"osm.vacuum" = "Vakuum";
+"osm.vacuum" = "Støvsuger";
 
 /**/
-"osm.health" = "Sundhed";
+"osm.health" = "Helse";
 
 /**/
-"osm.ralentisseur" = "Ralentisseur";
+"osm.ralentisseur" = "Fartsdump";
 
 /**/
-"osm.landfill" = "Losseplads";
+"osm.landfill" = "Avfallsdeponi";
 
 /**/
-"osm.gas" = "Gas";
+"osm.gas" = "Gass";
 
 /**/
-"osm.shipping_company" = "Fragtfirma";
+"osm.shipping_company" = "Rederi";
 
 /**/
 "osm.bird_hide" = "Fugleskjul";
 
 /**/
-"osm.gazebo" = "Gazebo";
+"osm.gazebo" = "Lysthus";
 
 /**/
-"osm.motorcycle_repair" = "Motorcykel reparation";
+"osm.motorcycle_repair" = "Motorsykkelverksted";
 
 /**/
-"osm.institute" = "Institut";
+"osm.institute" = "Institutt";
 
 /**/
 "osm.finance_agent" = "Finansagent";
 
 /**/
-"osm.estate_agent" = "Ejendomsmægler";
+"osm.estate_agent" = "Eiendomsmegler";
 
 /**/
-"osm.baggage_claim" = "Bagagekrav";
+"osm.baggage_claim" = "Bagasjeutlevering";
 
 /**/
 "osm.blackboard" = "Tavle";
 
 /**/
-"osm.delivery_office" = "Leveringskontor";
+"osm.delivery_office" = "Utleveringskontor";
 
 /**/
-"osm.boot_cleaner" = "Boot Cleaner";
+"osm.boot_cleaner" = "Støvelrenser";
 
 /**/
-"osm.small_vehicle_parking" = "Parkering til små køretøjer";
+"osm.small_vehicle_parking" = "Parkering for små kjøretøy";
 
 /**/
-"osm.radio_station" = "Radiostation";
+"osm.radio_station" = "Radiostasjon";
 
 /**/
 "osm.kraal" = "Kraal";
 
 /**/
-"osm.pre_school" = "Førskole";
+"osm.pre_school" = "Barnehage";
 
 /**/
-"osm.printing" = "Trykning";
+"osm.printing" = "Trykkeri";
 
 /**/
-"osm.side_strip" = "Side Strip";
+"osm.side_strip" = "Sidestripe";
 
 /* An artificial puddle where birds may bath, drink and cool themselves. Ideal for bird watching. */
 "osm.bird_bath" = "Fuglebad";
@@ -1883,13 +1882,13 @@
 "osm.boutique" = "Boutique";
 
 /**/
-"osm.fire_beater" = "Ildslager";
+"osm.fire_beater" = "Brannpadle";
 
 /**/
-"osm.transport" = "Transportere";
+"osm.transport" = "Transport";
 
 /**/
-"osm.computer" = "Computer";
+"osm.computer" = "Datamaskin";
 
 /**/
 "osm.mill" = "Mølle";
@@ -1901,16 +1900,16 @@
 "osm.recreation" = "Fritid";
 
 /**/
-"osm.game_arcade" = "Spil Arcade";
+"osm.game_arcade" = "Spillhall";
 
 /**/
-"osm.tutor" = "Underviser";
+"osm.tutor" = "Veileder";
 
 /**/
-"osm.hearing_aids" = "Høreapparater";
+"osm.hearing_aids" = "Høreapparat";
 
 /**/
-"osm.brothal" = "Brothal";
+"osm.brothal" = "Bordell";
 
 /**/
 "osm.air_vent" = "Luftventil";
@@ -1919,13 +1918,13 @@
 "osm.swimming_school" = "Svømmeskole";
 
 /**/
-"osm.pyrotechnics" = "Pyroteknik";
+"osm.pyrotechnics" = "Pyroteknikk";
 
 /**/
-"osm.rescue" = "Redde";
+"osm.rescue" = "Redning";
 
 /**/
-"osm.kids_area" = "Børneområde";
+"osm.kids_area" = "Barneområde";
 
 /**/
 "osm.sports" = "Sport";
@@ -1934,11 +1933,11 @@
 "osm.tea" = "Te";
 
 /**/
-"osm.passenger_information_display" = "Passagerinformationsdisplay";
+"osm.passenger_information_display" = "Passasjerinformasjonsdisplay";
 
 /**/
-"osm.cultural_centre" = "Kulturcenter";
-
+"osm.cultural_centre" = "Kulturhus";
+###
 /**/
 "osm.streetlamp" = "Gadelampe";
 
